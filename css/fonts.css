@@ -1,0 +1,14 @@
+@font-face{
+    font-family: 'Display-Light';
+    src: url(../fonts/SF-Pro-Display-Light.ttf)
+}
+
+@font-face{
+    font-family: 'Display-Regular';
+    src: url(../fonts/SF-Pro-Display-Regular.ttf)
+}
+
+@font-face{
+    font-family: 'Display-Medium';
+    src: url(../fonts/SF-Pro-Display-Medium.ttf)
+}
